@@ -29,14 +29,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead
 
 1. Describe the biggest difference between `.forEach` & `.map`.
+map returns a new array of elements while in turn passing each element back to the callback.
 
 2. What is the difference between a function and a method?
+function is an object. method it's assotiate the abject.
 
 3. What is closure?
+closure is basically nesting within functions. 
 
 4. Describe the four rules of the 'this' keyword.
+ Global binding, Implicit binding, New binding, Explicit binding.
 
 5. Why do we need super() in an extended class?
+essentially lets JavaScript know what a fish is so that it can create a this context for trout that includes everything from fish, 
 
 ## Project Set up
 
