@@ -41,7 +41,7 @@ closure is basically nesting within functions.
  Global binding, Implicit binding, New binding, Explicit binding.
 
 5. Why do we need super() in an extended class?
-essentially lets JavaScript know what a fish is so that it can create a this context for trout that includes everything from fish, 
+essentially lets JavaScript know what a fish is so that it can create a this context for trout that includes everything from fish.
 
 ## Project Set up
 

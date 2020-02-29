@@ -7,8 +7,8 @@
 */
 function CuboidMaker (cubo){
   this.length =cubo.length,
-  this.width = cubo.width,
-  this.height = cubo.height
+  this.width = cubo.width
+  this.height = cubo.height 
 }
 
 /* == Step 2: Volume Method ==
